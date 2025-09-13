@@ -139,7 +139,7 @@ public class Empleado extends javax.swing.JFrame {
     }//GEN-LAST:event_btnConsultarActionPerformed
 
     private void btnGuardarActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnGuardarActionPerformed
-hz        // TODO add your handling code here:
+      // TODO add your handling code here:
         try{
             String nombre = txtNombre.getText();
             String apellido = txtApellido.getText();
@@ -191,3 +191,4 @@ hz        // TODO add your handling code here:
     private javax.swing.JTextField txtnombre;
     // End of variables declaration//GEN-END:variables
 }
+//HOLA MUNDO
